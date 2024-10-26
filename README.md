@@ -1,5 +1,9 @@
 # Screening Web Programmer
 
+## PHP Exercises and Database Integration
+
+This repository contains a collection of PHP exercises, designed to explore fundamental coding concepts and problem-solving approaches using PHP. It includes code for handling various programming tasks, alongside a MySQL database schema (import.sql) to support data-driven applications. The project demonstrates basic PHP functionality and database interactions, making it a practical resource for understanding core PHP and SQL integrations. Screenshots are provided to illustrate sample outputs and guide users through the interface and functionality.
+
 ## Soal A
 
 - Soal A.1
